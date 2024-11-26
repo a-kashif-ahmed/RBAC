@@ -97,6 +97,7 @@ th td {
  @media only screen and (max-width: 662px) {
 .us{
   overflow-x:scroll;
+  overflow: scroll;
   scroll-behavior: smooth;
   scrollbar-width: 1px;
   scrollbar-color: #323030;
